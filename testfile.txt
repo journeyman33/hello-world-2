@@ -1,0 +1,10 @@
+Heading
+=======
+
+Another file to test the three steps
+ 
+  1 Add
+  2 Commit 
+  3 Push
+
+
